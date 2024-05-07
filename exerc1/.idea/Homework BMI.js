@@ -39,5 +39,4 @@ if (BMIBlanka > BMITina && BMIBlanka > BMIKatka) {
     nameHasHigherBMI = "Same BMI";
 }
 
-
 console.log("The person with the highest BMI is:", nameHasHigherBMI);
